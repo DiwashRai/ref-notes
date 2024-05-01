@@ -2,7 +2,7 @@
 title: "Additional Linux Setup"
 tags:
 -   linux
---
+---
 
 ## install nerd fonts
 Download JetBrains at least
