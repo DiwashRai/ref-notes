@@ -1,7 +1,7 @@
 ---
-title: ""
+title: Hash Map
 tags:
-  - random
+  - "#DS"
 ---
 **Basic interface**
 
