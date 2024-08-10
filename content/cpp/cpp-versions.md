@@ -1,7 +1,7 @@
 ---
 title: C++ Versions
 tags:
-  -    "#cpp"
+-   cpp
 ---
 
 # C++ evolution through the years
